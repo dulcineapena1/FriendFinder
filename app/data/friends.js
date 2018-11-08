@@ -1,7 +1,7 @@
 var friends = [
     {
-    name:"Ahmed",
-    photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    name:"Raúl",
+    photo:"https://static1.fashionbeans.com/wp-content/uploads/2017/10/best-mens-medium-length-hairstyles2.jpg",
     scores:[
         5,
         1,
@@ -9,15 +9,15 @@ var friends = [
         4,
         5,
         1,
-        2,
-        5,
         4,
+        5,
+        8,
         1
       ]
   },
   {
     name:"Juan",
-    photo:"http://static.t13.cl/images/sizes/1200x675/1512579487-omar-borkan-1920-perfil.jpg",
+    photo:"https://i1.adis.ws/i/ArsenalDirect/category-banner-mensCLOTHING?$mobileCategoryBanner$",
     scores:[
         3,
         2,
@@ -26,9 +26,25 @@ var friends = [
         5,
         1,
         2,
-        5,
+        7,
         4,
         1
+      ]
+  },
+  {
+    name:"Rodrigo",
+    photo:"https://xcdn.next.co.uk/Common/Items/Default/Default/Sitemaps/INT_ROW_80/LandingPages/men/Collections/Casual-and-Formal-Shirts-and-Ties_1.jpg",
+    scores:[
+        5,
+        5,
+        5,
+        7,
+        5,
+        5,
+        2,
+        5,
+        6,
+        3
       ]
   }
 ]

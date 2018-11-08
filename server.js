@@ -7,7 +7,7 @@ var app = express();
 //el puerto donde lo veremos
 var PORT = process.env.PORT || 8080;
 
-//esto es obligatorio ponerlo
+//esto es obligatorio ponerlo (middleware)
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 

@@ -1,0 +1,15 @@
+{
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "Answer the survey and get a friend match.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "path": "^0.12.7",
+    "express":"4.16.4"
+  }
+}
